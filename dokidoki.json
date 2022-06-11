@@ -1,0 +1,56 @@
+{
+  "playerstats": {
+    "steamID": "76561198208292296",
+    "gameName": "Doki Doki Literature Club Plus!",
+    "achievements": [
+      { "apiname": "act_2", "achieved": 1, "unlocktime": 1639541202 },
+      {
+        "apiname": "perfect_poem_sayori",
+        "achieved": 1,
+        "unlocktime": 1640381306
+      },
+      {
+        "apiname": "perfect_poem_natsuki",
+        "achieved": 1,
+        "unlocktime": 1640386025
+      },
+      {
+        "apiname": "perfect_poem_yuri",
+        "achieved": 1,
+        "unlocktime": 1640382310
+      },
+      {
+        "apiname": "perfect_poem_monika",
+        "achieved": 1,
+        "unlocktime": 1639955282
+      },
+      { "apiname": "epilogue_cg", "achieved": 1, "unlocktime": 1640481396 },
+      { "apiname": "testvm_open", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "final_message", "achieved": 1, "unlocktime": 1639979803 },
+      { "apiname": "dan_message", "achieved": 1, "unlocktime": 1640479885 },
+      { "apiname": "speed_poetry", "achieved": 1, "unlocktime": 1639953331 },
+      {
+        "apiname": "monika_topics_15",
+        "achieved": 1,
+        "unlocktime": 1640388043
+      },
+      { "apiname": "poetry_slam", "achieved": 1, "unlocktime": 1639195036 },
+      { "apiname": "draw_boxes", "achieved": 1, "unlocktime": 1639955948 },
+      {
+        "apiname": "change_wallpaper",
+        "achieved": 1,
+        "unlocktime": 1639952714
+      },
+      { "apiname": "killed_everyone", "achieved": 1, "unlocktime": 1639955515 },
+      { "apiname": "dont_quit", "achieved": 1, "unlocktime": 1639955442 },
+      { "apiname": "mixtape", "achieved": 1, "unlocktime": 1640061869 },
+      {
+        "apiname": "project_plan_open",
+        "achieved": 1,
+        "unlocktime": 1640388279
+      },
+      { "apiname": "second_delete", "achieved": 1, "unlocktime": 1639979936 }
+    ],
+    "success": true
+  }
+}

@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+* {
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: gray;
+    background-image: url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+div { 
+    background-color: transparent;
+    align-content: center;
+    justify-content: center;
+    display: block;
+    text-transform: capitalize;
+    white-space: pre-line;
+}
+
+h1{
+    font-size: 68pt;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30pt;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30pt;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 24pt;
+    text-align: center;
+}
+
+button{
+    font-size: 24pt;
+    text-align: center;
+    padding: 1cm;
+    border-radius: 0%;
+    border-color: white;
+    border-style: solid;
+    line-height: 50%;
+}
+
+button:hover{
+    opacity: 0.5;
+
+}
+button.button1{
+    background-image: url("https://steamlists.com/wp-content/uploads/2021/05/cozy-grove-guide-for-a-beginners-0-steamlists-com-4534543.jpg");
+    background-color: black;
+    background-size: cover;
+    color: black;
+    text-decoration-style: solid;
+    font-weight: bolder;
+}
+button.button2{
+    background-image: url("https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/07/Doki-Doki-Literature-Club-How-To-Get-Every-Character-Specific-Ending.jpg");
+    background-size: cover;
+    color: black;
+    font-weight: bolder;
+}
+button.button3{
+    color: black;
+    font-weight: bolder;
+}
+
+iframe{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 22pt;
+    border-style: double;
+    border-color: white;
+    background-color: white;
+    display: inline-block;
+}
+  iframe::-webkit-scrollbar {
+      width: 10px;
+      height: 10px;
+      display: none;
+      color: transparent;
+  }
+  iframe::-webkit-scrollbar-button,
+  iframe::-webkit-scrollbar-button {
+      height: 30px;
+      background-color: transparent;
+  }
+ iframe ::-webkit-scrollbar-track-piece  {
+      background-color: transparent;
+     border-radius: 16px;
+  }
+  iframe::-webkit-scrollbar-thumb {
+      height: 50px;
+      background-color: transparent;
+      border: 1px solid transparent;
+      border-radius: 6px;
+  }

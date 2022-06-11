@@ -1,0 +1,127 @@
+{
+  "playerstats": {
+    "steamID": "76561198208292296",
+    "gameName": "Cozy Grove",
+    "achievements": [
+      {
+        "apiname": "complete_tutorial_1",
+        "achieved": 1,
+        "unlocktime": 1639191817
+      },
+      {
+        "apiname": "complete_seasons_2",
+        "achieved": 1,
+        "unlocktime": 1639191617
+      },
+      {
+        "apiname": "complete_seasons_3",
+        "achieved": 1,
+        "unlocktime": 1648402330
+      },
+      { "apiname": "complete_seasons_4", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "complete_tentupgrade_1",
+        "achieved": 1,
+        "unlocktime": 1648861362
+      },
+      { "apiname": "complete_tentupgrade_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "complete_tentupgrade_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "complete_tentupgrade_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "complete_days_2", "achieved": 1, "unlocktime": 1648402330 },
+      { "apiname": "complete_days_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "unique_bears_1", "achieved": 1, "unlocktime": 1639191948 },
+      { "apiname": "unique_bears_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "unique_bears_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "currency_earn_1", "achieved": 1, "unlocktime": 1648403026 },
+      { "apiname": "currency_earn_2", "achieved": 1, "unlocktime": 1648422461 },
+      { "apiname": "currency_earn_3", "achieved": 1, "unlocktime": 1649012145 },
+      { "apiname": "currency_earn_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "currency_sell_1", "achieved": 1, "unlocktime": 1648402975 },
+      { "apiname": "currency_sell_2", "achieved": 1, "unlocktime": 1648405861 },
+      { "apiname": "currency_sell_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "currency_sell_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_any_1", "achieved": 1, "unlocktime": 1648405189 },
+      { "apiname": "craft_any_2", "achieved": 1, "unlocktime": 1650238527 },
+      { "apiname": "craft_any_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_any_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_recycle_1", "achieved": 1, "unlocktime": 1648695289 },
+      { "apiname": "craft_recycle_2", "achieved": 1, "unlocktime": 1650127209 },
+      { "apiname": "craft_recycle_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_recycle_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_break_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_break_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_break_4", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_repair_t1_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_repair_t2_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "craft_tools_repair_t3_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_feed_t1_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_feed_t2_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_feed_t3_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_happy_t1_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_happy_t2_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "animal_happy_t3_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "cooking_t1_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "cooking_t2_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "cooking_t3_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "own_animals_any_3", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "own_decorations_2",
+        "achieved": 1,
+        "unlocktime": 1648422906
+      },
+      { "apiname": "own_flower_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "own_trees_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "unique_fishs_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "unique_flowers_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "unique_food_2", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "unique_materials_2",
+        "achieved": 1,
+        "unlocktime": 1649010319
+      },
+      { "apiname": "unique_shells_2", "achieved": 1, "unlocktime": 1648913425 },
+      { "apiname": "total_clothing_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "complete_quests_story_2", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "harvest_leafpiles_2",
+        "achieved": 1,
+        "unlocktime": 1649012403
+      },
+      {
+        "apiname": "harvest_mounds_2",
+        "achieved": 1,
+        "unlocktime": 1648780508
+      },
+      { "apiname": "harvest_rocks_2", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "harvest_shrubbery_2",
+        "achieved": 1,
+        "unlocktime": 1649010920
+      },
+      { "apiname": "harvest_dowsing_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "harvest_imps_feeding_2", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "harvest_imps_heartbroken_1",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      {
+        "apiname": "complete_quests_story_dlc1_2",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      { "apiname": "total_butterflies_1", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "total_butterflies_2", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "total_butterflies_3", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "total_butterflies_4", "achieved": 0, "unlocktime": 0 },
+      {
+        "apiname": "pet_animals_rainbow_cat_1",
+        "achieved": 0,
+        "unlocktime": 0
+      },
+      { "apiname": "unique_bears_dlc1_1", "achieved": 0, "unlocktime": 0 },
+      { "apiname": "dance_party_4", "achieved": 0, "unlocktime": 0 }
+    ],
+    "success": true
+  }
+}
